@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 da sua file txt abc daklfjkwajfklawjfklawjfwlk
-=======
-dmm
->>>>>>> 00c942df89107610201ce3519854eb2f95982764
